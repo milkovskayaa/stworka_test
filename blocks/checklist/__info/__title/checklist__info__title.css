@@ -1,0 +1,13 @@
+.checklist__info__title {
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #fff;
+  background-color: #2364DB;
+  width: 76px;
+  height: 18px;
+  border-radius: 40px;
+  text-align: center;
+  margin: 0;
+}
