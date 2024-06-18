@@ -1,0 +1,13 @@
+.checklist__button {
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.4;
+  color: #4777ED;
+  width: 170px;
+  height: 40px;
+  background-color: #F4F8FF;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 6px;
+}

@@ -3,4 +3,5 @@
   height: 91px;
   border-radius: 10px;
   background-color: #3579F5;
+  display: flex;
 }
